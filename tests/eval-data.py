@@ -1,158 +1,4 @@
 EVAL_PAGES = {
-'https://www.ahlen.de/start/aktuelles/aktuelle/information/nachricht/aus-ahlen/reparaturcafe-am-31-januar/': {
-    'file': '',  # stays empty until download
-    'author': '',
-    'title': 'Reparaturcafé am 31. Januar',
-    'date': '2020-01-27',
-    'description': 'Jede Menge Spaß bereitet es den ehrenamtlichen Experten im Reparaturcafé, wenn sie defekte Hausgeräte wieder flott bekommen. Die regelmäßigen Besucherinnen und Besucher wissen das schon lange. Gelegenheit zu einem Besuch im Reparaturcafé bietet sich am Freitag, 31. Januar, in der Zeit von 15.00 bis 18.00 Uhr in den Räumen des Gruppenergänzenden Dienstes des St. Vinzenz am Park (Kampstraße 13-15).',  # in HTML source
-    'categories': ['Soziales & Gesundheit'],
-    'tags': [''],
-    'with': ['Jede Menge Spaß bereitet es den', 'Das Projekt ist eine Kooperationsveranstaltung', 'althausa@stadt.ahlen.de'],  # 3 segments
-    'without': ['Stadtverwaltung Ahlen Rechnungseingang', 'Internetredaktion Stadt Ahlen', 'Allgemeine Sprechstunden der Verwaltung'],  # 3 segments
-    'comments': [''],  # 0 or 3 segments
-    'license': '',  # if CC-...
-    'region': 'DE',  # if obvious: DE, CH, AT
-},
-'https://www.travanto.de/ferienhaus/lierfeld/40222/ferienhaus-feinen.php': {
-    'file': '',  # stays empty until download
-    'author': '',
-    'title': 'Ferienhaus Feinen',
-    'date': '',
-    'description': '',  # in HTML source
-    'categories': [''],
-    'tags': [''],
-    'with': ['Wir haben unser altes Bauernhaus zu einem', 'Das idyllische Eifeldörfchen Lierfeld liegt', 'Kinder unter 4 Jahren werden nicht als'],  # 3 segments
-    'without': ['Travanto Buchungshotline', 'tolle Gewinnspiele', ' TrustScore 4.2 580 Bewertungen'],  # 3 segments
-    'comments': [''],  # 0 or 3 segments
-    'license': '',  # if CC-...
-    'region': 'DE',  # if obvious: DE, CH, AT
-},
-'https://rete-mirabile.net/notizen/15-jahre-rete-mirabile/': {
-    'file': '',  # stays empty until download
-    'author': 'Andreas Kalt',
-    'title': '15 Jahre rete-mirabile.net',
-    'date': '2019-07-28',
-    'description': 'Diesen Blog gibt es seit 15 Jahren – ein Rückblick.',  # in HTML source
-    'categories': ['Notizen'],
-    'tags': ['reflexion', 'blogs', 'digitalisierung', 'inspiration', 'internet'],
-    'with': ['Im Trubel des Alltags', 'Vor zehn Jahren war Twitter', 'Aktuell fallen mir wieder mehr Themen ein'],  # 3 segments
-    'without': ['Deine E-Mail-Adresse wird nicht veröffentlicht', 'Logo von Jonathas Mello', 'Gedanken über Lernen und Schule'],  # 3 segments
-    'comments': ['Vielen Dank für die netten Worte', 'Danke für Deine guten', 'Ich gehe also davon aus'],  # 0 or 3 segments
-    'license': 'CC BY-SA 4.0',  # if CC-...
-    'region': 'DE',  # if obvious: DE, CH, AT
-},
-'https://shop.nmb-media.de/eBay-Template-Datenschutz-Google-Fonts-Fontawesome': {
-    'file': '',  # stays empty until download
-    'author': '',
-    'title': 'Datenschutztechnische Anpassung der eBay-Verkaufsvorlagen',
-    'date': '2018-06-22',
-    'description': 'eBay-Auktionsvorlagen für JTL Wawi / Eazyauction, Magnalister und Afterbuy.',  # in HTML source
-    'categories': ['News'],
-    'tags': [''],
-    'with': ['Aus datenschutzrechtlichen Gründen wird', 'Aufgrund der derzeitigen, datenschutzrechtlichen', 'Die IP-Adressen werden'],  # 3 segments
-    'without': ['Die Beratung zu den von uns angebotenen', 'Fernwartung nach Absprache per AnyDesk', 'Bitte laden Sie sich über Ihr '],  # 3 segments
-    'comments': [''],  # 0 or 3 segments
-    'license': '',  # if CC-...
-    'region': 'DE',  # if obvious: DE, CH, AT
-},
-'https://viertausendhertz.de/ddg48/': {
-    'file': '',  # stays empty until download
-    'author': '',
-    'title': 'Mit Musiker Voodoo Jürgens in Wien',
-    'date': '2019-12-16',
-    'description': '"Mit Christian Möller ist Musiker David Öllerer aka Voodoo Jürgens durch Wien spaziert – vom Friedhof, wo er selbst mal gearbeitet hat, bis in sein Stammcafé, Gulaschsuppe essen.',  # in HTML source
-    'categories': [''],
-    'tags': [''],
-    'with': ['Im Dialekt zu singen', 'Mit seinen Songs über Glücksspiel', 'Stammcafé, Gulaschsuppe essen'],  # 3 segments
-    'without': ['Foto: Ingo Pertramer', 'Mehr Episoden anzeigen', 'Mit dem Cartoonisten Tobias Vogel in Krefeld'],  # 3 segments
-    'comments': [''],  # 0 or 3 segments
-    'license': '',  # if CC-...
-    'region': 'DE',  # if obvious: DE, CH, AT
-},
-'http://www.bibliothek2null.de/2014/05/18/alles-neue-mach-der-mai/': {
-    'file': '',  # stays empty until download
-    'author': 'Patrick Danowski',
-    'title': 'Alles Neue mach der Mai…',
-    'date': '05-18',
-    'description': 'Innovative Ideen für Bibliotheken,  Freie Inhalte und Interessantes aus dem Web',  # in HTML source
-    'categories': ['Uncategorized'],
-    'tags': ['Uncategorized'],
-    'with': ['Nachdem ich mein Blog', 'Der Anfang ist gemacht', 'Ich hoffe euch gefällt der Relaunch.'],  # 3 segments
-    'without': ['Deine E-Mail-Adresse wird', 'bei Informationspraxis- ein neues', 'Permalink'],  # 3 segments
-    'comments': ['ich bin schon ganz gespannt'],  # 0 or 3 segments
-    'license': 'CC BY 2.0 DE',  # if CC-...
-    'region': 'DE',  # if obvious: DE, CH, AT
-},
-'http://www.helge.at/2014/03/warum-wien-zu-blod-fur-eine-staufreie-mahu-ist/': {
-    'file': '',  # stays empty until download
-    'author': 'Helge Fahrnberger',
-    'title': 'Warum Wien zu blöd für eine staufreie Mahü ist',
-    'date': '2014-03-05',
-    'description': 'Die &#8220;Krone&#8221; zitiert heute meinen Tweet &#8220;Wien ist zu blöd für eine staufreie Mahü. Muss man so hinnehmen.&#8221; (Hier die Online-Version.) Warum ich glaube, dass Wien (beachte: nicht wie die Krone behauptet &#8220;alle Wiener&#8221;) zu blöd ist für eine staufreie Mariahilfer Straße (oder fast, falls die Abstimmung doch für die Verkehrsberuhigung ausgeht): 1. Die rot-grüne &hellip;',  # in HTML source
-    'categories': ['Politics'],
-    'tags': [''],
-    'with': ['Die “Krone” zitiert heute meinen', 'die rote Personalvertretung der Wiener Linien', 'Blöd sind also nicht die Wiener'],  # 3 segments
-    'without': ['Warum Michel Reimon nach Brüssel muss', 'Helge Fahrnberger's personal pages'],  # 3 segments
-    'comments': ['Es war ein wunderbarer Beschluss'],  # 0 or 3 segments
-    'license': '',  # if CC-...
-    'region': 'AT',  # if obvious: DE, CH, AT
-},
-'http://www.heiko-adams.de/laufen-im-winter-von-baeh-zu-yeah-in-12-monaten/': {
-    'file': '',  # stays empty until download
-    'author': '',
-    'title': '',
-    'date': '',
-    'description': '',  # in HTML source
-    'categories': [''],
-    'tags': [''],
-    'with': [''],  # 3 segments
-    'without': [''],  # 3 segments
-    'comments': [''],  # 0 or 3 segments
-    'license': '',  # if CC-...
-    'region': 'DE',  # if obvious: DE, CH, AT
-},
-'http://www.nalas-loewenseiten.info/loewen-lexikon/?letter=M': {
-    'file': '',  # stays empty until download
-    'author': '',
-    'title': 'M wie Mähnenlöwe',
-    'date': '',
-    'description': 'Nalas LöwenseitenLöwisch gute Unterhaltung wünscht die Nala',  # in HTML source
-    'categories': ['Lexikon'],
-    'tags': [''],
-    'with': ['Nur die Löwenmännchen haben eine', 'Aber es gibt eben nicht nur diese tollen Schnuckllöwen', 'Und nicht nur dass, wie Peyton West'],  # 3 segments
-    'without': ['', '', ''],  # 3 segments
-    'comments': [''],  # 0 or 3 segments
-    'license': '',  # if CC-...
-    'region': '',  # if obvious: DE, CH, AT
-},
-'https://blogoff.de/2015/11/12/i-htm/': {
-    'file': '',  # stays empty until download
-    'author': '',
-    'title': '3 verrückte Orte in Berlin',
-    'date': '2015-11-12',
-    'description': '',  # in HTML source
-    'categories': [''],
-    'tags': [''],
-    'with': ['In Berlin lebe ich nun', 'Vielen Dank an die S-Bahn', 'powdered by wordpress'],  # 3 segments
-    'without': ['I ♥ BLOG OFF!', 'Nachfolgebeitrag', ''],  # 3 segments
-    'comments': [''],  # 0 or 3 segments
-    'license': '(CC BY-NC-SA 2.0 DE',  # if CC-...
-    'region': 'DE',  # if obvious: DE, CH, AT
-},
-'https://de.globalvoices.org/2019/04/30/ein-jahr-voller-proteste-nicaraguaner-wollen-nicht-mehr-nur-den-rucktritt-ortegas-sondern-einen-neuanfang/': {
-    'file': '',  # stays empty until download
-    'author': 'Elisa Marvena',
-    'title': 'Ein Jahr voller Proteste: Nicaraguaner wollen nicht mehr nur den Rücktritt Ortegas, sondern einen Neuanfang',
-    'date': '2019-04-30',
-    'description': '[Wir müssen] Autoritarismus, Sexismus, Alleinherrschaft einzelner und andere Übel, die in die politische Kultur dieses Landes Einzug gehalten haben, beseitigen.',  # in HTML source
-    'categories': ['Lateinamerika', 'Nicaragua', 'Bürgermedien', 'Kriege & Konflikte', 'Meinungsfreiheit', 'Menschenrechte', 'Politik', 'Protest'],
-    'tags': [''],
-    'with': ['Seit dem Ausbruch der Massenproteste gegen', 'Laut der niedrigsten Schätzung', 'Ich sah, wie eine Freundin von der Universität'],  # 3 segments
-    'without': ['@globalvoices verdient einen Preis für die', 'Italiano', 'Name (Pflichtfeld)'],  # 3 segments
-    'comments': [''],  # 0 or 3 segments
-    'license': 'CC BY 3.0',  # if CC-...
-    'region': 'DE',  # if obvious: DE, CH, AT
-},
 'http://wir-empfehlen.info/?p=3289': {
     'file': '',  # stays empty until download
     'author': 'Support Team',
@@ -335,4 +181,186 @@ Like... ',  # in HTML source
     'comments': [''],  # 0 or 3 segments
     'license': '',  # if CC-...
     'region': '',  # if obvious: DE, CH, AT
-}
+},
+'www.colours-of-the-soul.alhelm.net': {
+    'file': '',  # stays empty until download
+    'author': '',
+    'title': 'trnd-Projekt “G Data InternetSecurity 2009”',
+    'date': '2009-02-18',
+    'description': '',  # in HTML source
+    'categories': ['trnd-Projekte'],
+    'tags': ['Antivirus', 'Projekt', 'Test', 'trnd'],
+    'with': ['Einen Paralel-Scan', '1 Projektfahrplan-Broschüre', 'Aber es gibt noch den Sinn'],  # 3 segments
+    'without': ['ein Buch-Gewinn', 'Dann würde ich mich darüber ', ''],  # 3 segments
+    'comments': ['Dankeschön für die Blümchen', 'Liebe Ines, Danke', 'so langes Blogschweigen?'],  # 0 or 3 segments
+    'license': 'CC BY-NC-ND 3.0 DE',  # if CC-...
+    'region': 'DE',  # if obvious: DE, CH, AT
+},
+'https://lernpfadprismen.wordpress.com/masse/masse-des-quaders/': {
+    'file': '',  # stays empty until download
+    'author': '',
+    'title': 'Masse des Quaders',
+    'date': '',
+    'description': 'Die Masse eines Körpers berechnest du, indem du das Volumen (V) mit der Dichte (ρ) multiplizierst. Siehe Kapitel Masse! Bevor du die Beispiele löst, schau dir die Videos mit den Erklärungen an.   A…',  # in HTML source
+    'categories': [''],
+    'tags': [''],
+    'with': ['Die Masse eines Körpers', 'Lösung: m = 210 g', 'Vollständig durchgerechnete Lösung'],  # 3 segments
+    'without': ['Bloggen auf WordPress.com', 'Dieser Lernpfad ist', 'Didaktischer Kommentar'],  # 3 segments
+    'comments': [''],  # 0 or 3 segments
+    'license': 'CC BY-NC-ND 4.0',  # if CC-...
+    'region': '',  # if obvious: DE, CH, AT
+},
+'https://grossefragen.wordpress.com/2019/03/13/wuerde-des-lebens-ein-projekt/': {
+    'file': '',  # stays empty until download
+    'author': 'Michael Veeser-Dombrowski',
+    'title': 'Würde des Lebens – ein Projekt',
+    'date': '2019-03-13',
+    'description': 'Dieses Thema eignet sich gut für hoch individualisiertes Lernen und die Unterrichtsmethode „bloggen“.  Um den Anspruch nicht zu hoch zu schrauben, gibt es  dazwischen vier Anregungen: Hinweise zu e…',  # in HTML source
+    'categories': [''],
+    'tags': [''],
+    'with': ['Dieses Thema eignet', 'Dabei gelten ein paar wichtige', '=> Wie hast Du gelernt?'],  # 3 segments
+    'without': ['Unterrichtsideen und die Bilder', 'für erfolgreiches Lernen', '142 Antworten zu'],  # 3 segments
+    'comments': ['Die meisten Flüchtlinge kamen', 'Sind Todesstrafen moralisch vertretbar', 'Wünschen zu gestalten'],  # 0 or 3 segments
+    'license': 'CC BY 4.0',  # if CC-...
+    'region': '',  # if obvious: DE, CH, AT
+},
+'https://2gewinnt.wordpress.com/uber-uns/': {
+    'file': '',  # stays empty until download
+    'author': '',
+    'title': 'Über uns',
+    'date': '',
+    'description': '',  # in HTML source
+    'categories': [''],
+    'tags': [''],
+    'with': ['Künstlerischer Lebenslauf', 'Finalist bei der ORF-Show', '100 Folgen von'],  # 3 segments
+    'without': ['Sei der Erste dem dies gefällt.', 'Kommentar verfassen ', '"Gipfelpunkt der Geschmacklosigkeit." - Zuschauerstimme'],  # 3 segments
+    'comments': ['Hey ihr beiden!'],  # 0 or 3 segments
+    'license': '',  # if CC-...
+    'region': '',  # if obvious: DE, CH, AT
+},
+'https://knowledge-on-air.de/2019/12/17/koa039-live-vom-knowledgecamp-2019/': {
+    'file': '',  # stays empty until download
+    'author': 'Simon Dückert',
+    'title': 'KOA039 Live vom KnowledgeCamp 2019',
+    'date': '2019-12-17',
+    'description': '',  # in HTML source
+    'categories': ['Podcast'],
+    'tags': ['berlin', 'gkc19'],
+    'with': ['Auch auf dem KnowledgeCamp 2019', 'vom Camp erzählen', 'die über ihre Eindrücke'],  # 3 segments
+    'without': ['Scholarch der Cogneon', 'Kommentar verfassen ', 'Dieser Eintrag wurde veröffentlicht '],  # 3 segments
+    'comments': [''],  # 0 or 3 segments
+    'license': '',  # if CC-...
+    'region': '',  # if obvious: DE, CH, AT
+},
+'https://campino2k.de/2016/02/28/uberspace-und-lets-encrypt/': {
+    'file': '',  # stays empty until download
+    'author': 'Chris Jung',
+    'title': 'Uberspace und Let’s Encrypt',
+    'date': '2016-02-28',
+    'description': '',  # in HTML source
+    'categories': ['Internet', 'Projekte'],
+    'tags': ['HTTPS', 'ssl', 'Uberspace'],
+    'with': ['Nachdem bei Uberspace jetzt', 'Die Anpassung der entsprechenden', 'bei Projekten mit WordPress'],  # 3 segments
+    'without': ['Hier schreibt Christian', 'Das könnte Sie auch interessieren', ''],  # 3 segments
+    'comments': [''],  # 0 or 3 segments
+    'license': '',  # if CC-...
+    'region': '',  # if obvious: DE, CH, AT
+},
+'https://www.coopbuddy.de/games/bee-simulator/': {
+    'file': '',  # stays empty until download
+    'author': '',
+    'title': 'Bee Simulator',
+    'date': '',
+    'description': '',  # in HTML source
+    'categories': [''],
+    'tags': [''],
+    'with': ['Entdecke die großen Abenteuer', 'Bee Simulator Mehrspieler', 'Koop und Splitscreen-Modus'],  # 3 segments
+    'without': [' Hinterlasse einen Kommentar ', 'Gamefilter', 'Wenn ja, auf welcher Plattform?'],  # 3 segments
+    'comments': [''],  # 0 or 3 segments
+    'license': '',  # if CC-...
+    'region': 'DE',  # if obvious: DE, CH, AT
+},
+'http://www.silvias.net/blog/wahlzensur-angriff-auf-universitaeten/': {
+    'file': '',  # stays empty until download
+    'author': 'Silvia Jura',
+    'title': 'Wahlzensur: Angriff auf Universitäten',
+    'date': '2018-10-26',
+    'description': '',  # in HTML source
+    'categories': ['politics'],
+    'tags': ['elenão', 'fascismonobrasil', 'wahlen2018'],
+    'with': ['Am 25. Oktober gab es', 'Der Oberste Wahlgerichtshof', 'Até agora tiveram'],  # 3 segments
+    'without': ['alle inhalte @silviajura', 'Registrieren', 'http://www.celiamara.net'],  # 3 segments
+    'comments': [''],  # 0 or 3 segments
+    'license': '',  # if CC-...
+    'region': '',  # if obvious: DE, CH, AT
+},
+'https://wolfsrebellen-netz.forumieren.com/t7-forums-regeln': {
+    'file': '',  # stays empty until download
+    'author': 'lupa',
+    'title': 'Forums-Regeln',
+    'date': '2013-10-26',
+    'description': '',  # in HTML source
+    'categories': [''],
+    'tags': [''],
+    'with': ['Wir pflegen hier ein sehr freundschaftliches', 'Grafik, besonders der eigenen', 'gez. Admin lupa'],  # 3 segments
+    'without': ['Einen Missbrauch melden', 'Widerruf des Lebensversicherungsvertrags vor oder nach', 'Sie sind nicht verbunden'],  # 3 segments
+    'comments': [''],  # 0 or 3 segments
+    'license': '',  # if CC-...
+    'region': '',  # if obvious: DE, CH, AT
+},
+'https://www.alexander-klier.net/zeitenkompetenz/zeitphilosophie/': {
+    'file': '',  # stays empty until download
+    'author': 'Alexander Klier',
+    'title': 'Zeitphilosophie',
+    'date': '',
+    'description': '',  # in HTML source
+    'categories': [''],
+    'tags': [''],
+    'with': ['Es ist nicht zu wenig Zeit', 'Dieses tiefsitzende Kulturmuster', 'Im Rahmen des Tutzinger'],  # 3 segments
+    'without': ['Gib Deine E-Mail-Adresse', 'Diese Seite steht grundsätzlich', 'Alexander bei MOOCs – Ein Selbstversuch'],  # 3 segments
+    'comments': [''],  # 0 or 3 segments
+    'license': 'CC-BY-SA',  # if CC-...
+    'region': '',  # if obvious: DE, CH, AT
+},
+'http://www.villacc.de/ferienvilla/119/Villa-Galaxy-': {
+    'file': '',  # stays empty until download
+    'author': '',
+    'title': 'Villa Galaxy',
+    'date': '',
+    'description': 'Villa Galaxy  - Ein Luxus-Ferienhaus mit 4.5 Schlafzimmern und 3.5 Badezimmern in Florida. Gönnen Sie sich für Ihren Urlaub ein Ferienhaus mit privatem Pool unter der Sonne Floridas.',  # in HTML source
+    'categories': [''],
+    'tags': [''],
+    'with': ['In Cape Coral gibt', 'Pool verwendet Salzelektrolyse', 'Jede weitere Person: US $ 100,00'],  # 3 segments
+    'without': ['oder berechnen Sie die Kosten', '+49 8670 986823', 'LVCC ist Ihr Partner für die'],  # 3 segments
+    'comments': [''],  # 0 or 3 segments
+    'license': '',  # if CC-...
+    'region': '',  # if obvious: DE, CH, AT
+},
+'https://www.chorknaben-ulm.de/geschichte.html': {
+    'file': '',  # stays empty until download
+    'author': '',
+    'title': 'Chorgeschichte',
+    'date': '',
+    'description': '',  # in HTML source
+    'categories': [''],
+    'tags': [''],
+    'with': ['1968 bis heute Knabenmusik', 'Der Chor wird durch den 1978', '973 übernahm der damals'],  # 3 segments
+    'without': ['Seit 50 Jahren sind wir', 'Leitung: Thomas Stang', 'Impressum & Datenschutz'],  # 3 segments
+    'comments': [''],  # 0 or 3 segments
+    'license': '',  # if CC-...
+    'region': '',  # if obvious: DE, CH, AT
+},
+'https://resonator-podcast.de/2019/res158-kathrin-goebel/': {
+    'file': '',  # stays empty until download
+    'author': '',
+    'title': 'RES158 Sternfusion am Teilchenbeschleuniger',
+    'date': '',
+    'description': '',  # in HTML source
+    'categories': [''],
+    'tags': ['Astronomie', 'Astrophysik', 'Sterne', 'Sonnensystem', 'GSI', 'Beschleuniger', 'Physik'],
+    'with': ['Kathrin Göbel (Twitter) ist', 'Veröffentlicht am 16.08.2019', 'Und bitte entschuldigt den Helium-Fehler '],  # 3 segments
+    'without': ['Mit diesem Button kannst Du', 'Der Resonator-Podcast von Holger', 'Etwa alle zwei Wochen erscheint '],  # 3 segments
+    'comments': [''],  # 0 or 3 segments
+    'license': '',  # if CC-...
+    'region': 'DE',  # if obvious: DE, CH, AT
+},
